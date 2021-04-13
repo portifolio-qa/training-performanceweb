@@ -1,5 +1,5 @@
 # training-performanceweb
-Project Training Automation Performance Web
+Project Training Automation Performance Web LoadRunner
 
 * Avalia o tempo resposta, robustez, disponibilidade, confiabilidade e escalabilidade de uma aplicação!
 
